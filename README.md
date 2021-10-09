@@ -5,7 +5,7 @@ Automatically finds and uses nmap scripts
 
 * python3 Expulso2.py
 
-<img src="https://github.com/emrekybs/Expulso2/blob/master/expulse.JPG">
+<img src="https://github.com/emrekybs/Expulse/blob/main/expulse.JPG">
 <img src="https://github.com/emrekybs/Expulse/blob/main/2.PNG">
 <img src="https://github.com/emrekybs/Expulse/blob/main/4.PNG">
 <img src="https://github.com/emrekybs/Expulso2/blob/master/5.PNG">
